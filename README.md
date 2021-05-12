@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
-- I'm EwwPhysics, a high school student interested in programming, biochemistry, and... not much else. I'm currently teaching myself Python and learning Java in school.
 -->
-
+I'm EwwPhysics, a high school student interested in programming, biochemistry, and music. 
+I'm currently teaching myself Python and learning Java in school. I like to write documents in LaTeX!
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EwwPhysics&show_icons=true&theme=tokyonight&hide=stars">
