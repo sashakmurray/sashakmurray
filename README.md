@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :wave:
 
 <!--
 **EwwPhysics/EwwPhysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+- I'm EwwPhysics, a high school student interested in programming, biochemistry, and... not much else. I'm currently teaching myself Python and learning Java in school.
 -->
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=EwwPhysics&show_icons=true&theme=tokyonight&hide=stars">
