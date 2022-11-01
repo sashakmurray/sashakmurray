@@ -18,4 +18,4 @@ I'm Sasha (she/her), a high school student interested in programming, biochemist
 I'm currently teaching myself Python, R, and Rust, and I'm learning Java in school.
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=EwwPhysics&show_icons=true&theme=tokyonight&hide=stars">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sashakmurray&show_icons=true&theme=tokyonight&hide=stars">
