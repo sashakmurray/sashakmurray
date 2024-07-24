@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-I'm Sasha (she/her), a high school student interested in programming, biochemistry, and music. 
-I'm currently teaching myself Python, R, and Rust, and I'm learning Swift and Java in school.
+I'm Sasha (she/her), a student at UC Berkeley interested in programming, statistics, and medicine. 
+I'm most familiar with Python, Java, Swift, and R.
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sashakmurray&show_icons=true&theme=tokyonight&hide=stars">
