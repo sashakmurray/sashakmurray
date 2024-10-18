@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sashakmurray&show_icons=true&theme=tokyonight&hide=stars,contribs&include_all_commits=true">
+
 -->
 I'm Sasha (she/her), a student at UC Berkeley interested in programming, statistics, and medicine. 
 I'm most familiar with Python, Java, Swift, and R.
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashakmurray&exclude_repo=medlytics-website&layout=compact&theme=tokyonight">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sashakmurray&show_icons=true&theme=tokyonight&hide=stars">
